@@ -1,5 +1,5 @@
 ---
-theme: cayman
+layout: cayman
 ---
 
 # Header
