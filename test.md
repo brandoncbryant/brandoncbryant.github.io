@@ -1,2 +1,6 @@
+---
+theme: cayman
+---
+
 # Header
 *something*
