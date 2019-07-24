@@ -1,2 +1,0 @@
-# brandoncbryant.github.io
-pages
